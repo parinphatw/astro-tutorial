@@ -57,6 +57,14 @@ h1 {
   background-color: #ff9776;
 }
 
+ul li a {
+  text-decoration: none;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
 .expanded {
   display: unset;
 }
